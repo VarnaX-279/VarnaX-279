@@ -26,5 +26,3 @@
 <img src="https://raw.githubusercontent.com/VarnaX-279/VarnaX-279/main/src/border.png" alt="varnax-279" />
 
 <img src='https://raw.githubusercontent.com/VarnaX-279/VarnaX-279/main/src/pokemon.gif' width = 80 align = "right" alt="Pokemon" >
-
----
